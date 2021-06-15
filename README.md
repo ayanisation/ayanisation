@@ -16,8 +16,7 @@
 [<img align="left" alt="Ayan | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Ayan | Mail" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-gmail.svg" />][email]
 
-<br />
-<br />
+
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/javascript.svg" />
@@ -39,12 +38,13 @@
 <img align="left" alt="Npm" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-npm.svg" />
 <img align="left" alt="VsCode" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-visual-studio-code-2019.svg" />
 
-<br />
-<br />
-<br />
+
+
 
 ![Ayans's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=ayanisation&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanisation&show_icons=true )
+
+
 
 [website]: https://ayanisation.github.io/portfolio-ayan/
 [instagram]: https://www.instagram.com/internet_extrovert/
