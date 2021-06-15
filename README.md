@@ -14,6 +14,7 @@
 [<img align="left" alt="ayanisation.github.io" width="30px" src="https://image.flaticon.com/icons/svg/2920/2920277.svg" />][website]
 [<img align="left" alt="Ayan | LinkedIn" width="30px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
 [<img align="left" alt="Ayan | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
+[<img align="left" alt="Ayan | Mail" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-gmail.svg" />][email]
 
 <br />
 <br />
@@ -48,3 +49,4 @@
 [website]: https://ayanisation.github.io/portfolio-ayan/
 [instagram]: https://www.instagram.com/internet_extrovert/
 [linkedin]: https://www.linkedin.com/in/ayan-khan-664324192/
+[email]: mailto:ayan020299@gmail.com?subject=Hi
