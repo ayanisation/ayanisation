@@ -23,7 +23,7 @@
 <img align="left" alt="ReactJS" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-react-native.svg" />
 <img align="left" alt="Node JS" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-nodejs.svg" />
 <img align="left" alt="Mongo DB" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-mongodb.svg" />
-<img align="left" alt="Socket.io" width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/socketio/socketio-icon.svg" />
+<img align="left" alt="Socket.io" width="30px" src="https://cdn.onlinewebfonts.com/svg/img_238853.png" />
 <img align="left" alt="Redux" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-redux-48.png" />
 <img align="left" alt="C" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-c-programming.svg" />
 <img align="left" alt="Cpp" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-c%2B%2B.svg" />
@@ -42,8 +42,8 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanisation&show_icons=true )
 ![Ayans's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=ayanisation&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanisation&show_icons=true )
 
 [website]: https://ayanisation.github.io/portfolio-ayan/
 [instagram]: https://www.instagram.com/internet_extrovert/
