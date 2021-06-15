@@ -6,7 +6,8 @@
 - I’m currently working on sharpening my skills.
 - I’m actively looking for learning and work opportunities.
 - I’m open for collaborations. Just hit me up on my socials mentioned below.
-- 2021 Goals: Further expanding my knowledge of the coding spectrum. 
+- 2021 Goals: Further expanding my knowledge of the coding spectrum.
+<hr/> 
 
 
 ### Connect with me:
@@ -17,6 +18,7 @@
 [<img align="left" alt="Ayan | Mail" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-gmail.svg" />][email]
 
 <br/>
+<hr/>
 <br/>
 
 ### Languages and Tools:
@@ -39,11 +41,13 @@
 <img align="left" alt="VsCode" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-visual-studio-code-2019.svg" />
 
 <br/>
+<hr/>
 <br/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanisation&show_icons=true&locale=en&layout=compact" alt="ayanisation" /></p>
 <br/>
+<hr/>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanisation&show_icons=true&locale=en" alt="ayanisation" /></p>
 
