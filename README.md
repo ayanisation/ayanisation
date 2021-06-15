@@ -1,4 +1,5 @@
 ## Hi there, I'm Ayan Khan - aka [ayanisation][website] 👋
+<hr/>
 
 
 ### I'm a Full Stack Web Developer!
