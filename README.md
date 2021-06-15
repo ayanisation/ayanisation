@@ -1,4 +1,4 @@
-## Hi there, I'm Ayan Khan - aka [ayanisation][website] 👋
+## Hi there, I'm Ayan Khan - aka [ayanisation][website] aka [crypto_code][codeforces] aka [flip_bit][codechef]
 <hr/>
 
 
@@ -56,3 +56,5 @@
 [instagram]: https://www.instagram.com/internet_extrovert/
 [linkedin]: https://www.linkedin.com/in/ayan-khan-664324192/
 [email]: mailto:ayan020299@gmail.com?subject=Hi
+[codechef]: https://www.codechef.com/users/flip_bit
+[codeforces]: https://codeforces.com/profile/crypto_code
