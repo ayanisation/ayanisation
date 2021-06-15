@@ -1,7 +1,7 @@
-### Hi there, I'm Ayan Khan - aka [ayanisation][website] 👋
+## Hi there, I'm Ayan Khan - aka [ayanisation][website] 👋
 
 
-## I'm a Full Stack Web Developer!
+### I'm a Full Stack Web Developer!
 
 - I’m currently working on sharpening my skills.
 - I’m actively looking for learning and work opportunities.
@@ -16,7 +16,8 @@
 [<img align="left" alt="Ayan | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Ayan | Mail" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-gmail.svg" />][email]
 
-
+<br/>
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/javascript.svg" />
@@ -38,6 +39,8 @@
 <img align="left" alt="Npm" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-npm.svg" />
 <img align="left" alt="VsCode" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-visual-studio-code-2019.svg" />
 
+<br/>
+<br/>
 <br/>
 
 ![Ayans's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=ayanisation&show_icons=true)
