@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hi there, I'm Ayan Khan - aka [ayanisation][website] 👋
 
-<!--
-**ayanisation/ayanisation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Full Stack Web Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on sharpening my skills.
+- I’m actively looking for learning and work opportunities.
+- I’m open for collaborations. Just hit me on my socials mentioned below.
+- 2021 Goals: Further expanding my knowledge of the coding spectrum. 
+
+
+### Connect with me:
+
+[<img align="left" alt="ayanisation.github.io" width="30px" src="https://image.flaticon.com/icons/svg/2920/2920277.svg" />][website]
+[<img align="left" alt="Ayan | LinkedIn" width="30px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
+[<img align="left" alt="Ayan | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
+
+<br />
+<br />
+
+### Languages and Tools:
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/javascript.svg" />
+<img align="left" alt="ReactJS" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-react-native.svg" />
+<img align="left" alt="Node JS" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-nodejs.svg" />
+<img align="left" alt="Mongo DB" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-mongodb.svg" />
+<img align="left" alt="Socket.io" width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/socketio/socketio-icon.svg" />
+<img align="left" alt="Redux" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-redux-48.png" />
+<img align="left" alt="C" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-c-programming.svg" />
+<img align="left" alt="Cpp" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-c%2B%2B.svg" />
+<img align="left" alt="Html" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-html-5.svg" />
+<img align="left" alt="Css" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-css3.svg" />
+<img align="left" alt="Java" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-java.svg" />
+<img align="left" alt="Kotlin" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-kotlin.svg" />
+<img align="left" alt="Android" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-android-os.svg" />
+<img align="left" alt="Git" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-github.svg" />
+<img align="left" alt="MaterialUI" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-material-ui.svg" />
+<img align="left" alt="Bootstrap" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-bootstrap.svg" />
+<img align="left" alt="Npm" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-npm.svg" />
+<img align="left" alt="VsCode" width="30px" src="https://github.com/ayanisation/portfolio-ayan/blob/main/images/icons8-visual-studio-code-2019.svg" />
+
+<br />
+<br />
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanisation&show_icons=true )
+![Ayans's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=ayanisation&show_icons=true)
+
+[website]: https://ayanisation.github.io/portfolio-ayan/
+[instagram]: https://www.instagram.com/internet_extrovert/
+[linkedin]: https://www.linkedin.com/in/ayan-khan-664324192/
