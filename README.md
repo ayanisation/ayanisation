@@ -5,7 +5,7 @@
 
 - I’m currently working on sharpening my skills.
 - I’m actively looking for learning and work opportunities.
-- I’m open for collaborations. Just hit me on my socials mentioned below.
+- I’m open for collaborations. Just hit me up on my socials mentioned below.
 - 2021 Goals: Further expanding my knowledge of the coding spectrum. 
 
 
