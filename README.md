@@ -46,8 +46,8 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanisation&show_icons=true&locale=en&layout=compact" alt="ayanisation" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanisation&show_icons=true&locale=en" alt="ayanisation" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanisation&show_icons=true&locale=en&layout=compact" alt="ayanisation" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanisation&show_icons=true&locale=en" alt="ayanisation" />
 
 
 
