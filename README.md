@@ -46,8 +46,9 @@
 <br/>
 
 <div style={display:flex}>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanisation&count_private=true&show_icons=true&include_all_commits=true&theme=dark"      alt="ayanisation" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanisation&show_icons=true&locale=en&layout=compact" alt="ayanisation" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanisation&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="ayanisation" />
+
 </div>
 
 
